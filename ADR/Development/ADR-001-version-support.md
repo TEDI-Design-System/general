@@ -44,16 +44,15 @@ Vanema versiooni puhul:
 ---
 
 ## 4. Alternatiivid
--
+
 
 ---
 
 ## 5. Järeldus
 
--
+
 
 ---
 
 ## 6. Seotud dokumendid / Tulevikutöö
 
--
