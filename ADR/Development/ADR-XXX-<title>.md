@@ -1,7 +1,7 @@
 # ADR-XXX: [Otsuse pealkiri]
 
 - **Status:** [Proposed / Accepted / Rejected / Deprecated / Superseded]  
-- **Date:** [dd-mm-yy]  
+- **Date:** [yyyy-mm-dd]  
 - **ADR ID:** ADR-XXX  
 - **Decision Makers:** [Nimed]  
 
