@@ -1,7 +1,7 @@
 # ADR-001: Reacti ja Angulari versioonitoe poliitika
 
 - **Staatus:** Accepted  
-- **Kuupäev:** 25-04-23  
+- **Kuupäev:** 2025-04-23  
 - **ADR ID:** ADR-001  
 - **Otsuse tegijad:** Tõnis Tobre, Oliver Vaga  
 
