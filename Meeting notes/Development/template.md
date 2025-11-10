@@ -1,16 +1,7 @@
-# 2025-xx-xx Template name
+# 2025-xx-xx FE by-weekly
 
 ## Osalejad: 
 * Siret Tuula
 
-## Demo
-* 
-
-## Vajadused ja muu tagasiside
-* 
-
-## Otsused
-* 
-  
-Üleval olevad teemad:
+## Teemad
 * 
