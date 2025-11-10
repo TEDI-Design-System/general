@@ -17,7 +17,7 @@
 * Heleri Mändla
 
 ## Teemad
-* Koosolekuaja muudatus. Küsitlus Slacki. 
+* Koosolekuaja muudatusettepanek. Küsitlus Slacki. 
 * Airike demob "themeProviderit". Muutused on cores. Sel nädalal või järgmise nädalal alguses tuleb RC-sse, siis hakkame Angulari tegema. 
 * Näitasime Discussion boardi. Asendab wishlisti. Saab upvoteda, kommenteerida jne. 
 * TEDI stroybookil on domeen nüüd - storybook.tedi.ee. Lingid igal pool muudetud v.a. Figmas
