@@ -1,3 +1,5 @@
+# 2025-11-10 Regulaarne disainikoosolek
+
 ## Osalejad
 * Kärolin Kivisikk
 * Gerli Liiv
