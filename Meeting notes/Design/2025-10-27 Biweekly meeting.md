@@ -27,7 +27,7 @@ Video: https://bitwebou-my.sharepoint.com/:v:/r/personal/karolin_kivisikk_bitweb
   * Mure on hetkel ennatlik ning pole teada kas põhjustab kasutajate seas segadust. 
   * **Lahendus**: Hetkel TEDI komponenti ei muuda sest teistes projektides ei ole probleemiks osutunud, lisaks tugineb TEDI nupp Veeral. AKS-il on võimalus ise lisada hover olek enda projekti-põhiselt, mida nad koosolekul otsustasid et siiski ei tee hetkel. Küll aga jääb Community nupp alles kuna sellel puudub TEDI-Readys vaste siis seniks pole ohtu et see kustutatakse, seega seda Community nuppu võivad ka hetkel edasi kasutada. TEDI soovitus oli sellest github wishlist discussion luua ja kui ka teistel projektidel huvi sellise nupu järgi siis saab selle töösse vajadusel võtta.
     * Sireti vastus kinnitas et juhul kui peaksime selle nupu eemaldama siis anname pikemalt ette teada, hetkel jääb nupp communitysse alles.
-* Joanna Joa, STAR projekt, File upload + progressbar:
+* Joanna Joa, TEIS projekt, File upload + progressbar:
   * Hetkel TEDI-Ready Figmas puudub lahendus kuidas progressbari attachmenti sees kasutada. STAR-is peab see progressbar aga konkreetse failiga seotud olema. Progressbar hetkel puudub TEDI-ready arendusest, STAR on ise arendanud selle
     * **Lahendus**: Las projekt disainib selle progressbari sinna sisse ise hetkel, TEDI disainiga hiljem põrgatada kuna hetkel ei ole ressurssi nii kiiresti seda Figmasse luua, siis koostöös saame vajaliku stiili/visuaali paika panna ning hiljem saab TEDI figmasse selle ümber tuua. 
   * File upload komponent puudus ka Angularis, TEDI-Readys ehk et praegu arendavad ise communityna. Küsimus kas failid hakkavad kohe üles laadima kui nad dropzone-i lisatakse või peab mingit nuppu vajutama
