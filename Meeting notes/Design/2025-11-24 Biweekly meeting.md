@@ -39,7 +39,7 @@ https://bitwebou-my.sharepoint.com/:v:/r/personal/karolin_kivisikk_bitweb_ee/Doc
 * luua valge infonupp, vaadata üle kaardikomponentidest kas seal juba ei ole loodud
 * arvestada sooviga et arenduses saaks horisontaalset nav-i panna stickyma scrollimise peale
 * lisada separator horisontaalsse menüüsse
-* mõelda mis hetkest või loogika alusel horisontaalne menüü läheb mobiilseks - kas võimalik hallata arenduses et jääb kauemaks mitte mobiilseks kui linke on vähem menüüs
+* mõelda mis hetkest või loogika alusel horisontaalne menüü läheb mobiilseks - kas võimalik hallata arenduses et jääb kauemaks mittemobiilseks kui linke on vähem menüüs
   
 Eelmistest koosolekutest veel üleval:
 * Otsing headerisse
