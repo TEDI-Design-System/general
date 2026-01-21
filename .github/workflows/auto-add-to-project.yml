@@ -1,0 +1,38 @@
+# Reusable workflow to auto-add issues and PRs to a GitHub Project v2
+# This workflow can be called from any repository in the organization
+
+name: Auto Add to Project
+
+on:
+  workflow_call:
+    inputs:
+      project-url:
+        description: 'The URL of the GitHub Project v2'
+        required: true
+        type: string
+    secrets:
+      PROJECT_AUTO_ADD_APP_ID:
+        description: 'GitHub App ID'
+        required: true
+      PROJECT_AUTO_ADD_APP_KEY:
+        description: 'GitHub App private key'
+        required: true
+
+jobs:
+  add-to-project:
+    name: Add to Project
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub App token
+        id: generate-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.PROJECT_AUTO_ADD_APP_ID }}
+          private-key: ${{ secrets.PROJECT_AUTO_ADD_APP_KEY }}
+          owner: ${{ github.repository_owner }}
+
+      - name: Add to GitHub Project
+        uses: actions/add-to-project@v1.0.2
+        with:
+          project-url: ${{ inputs.project-url }}
+          github-token: ${{ steps.generate-token.outputs.token }}
