@@ -52,6 +52,7 @@ Arutati vajadust võimaldada logo nähtavuse sisse/välja lülitamist - nii Figm
 * Figma make ja TEDI kooslus vajab veel testimist, testitud varasemas etapis võimalik et Make on arenenud. 
 
 Eelmistest koosolekutest veel üleval:
+* Koguda projektidest chati/sõnumi disainid kokku üle projektide.
 * Sidenavile lisada jalus ja päis
 * Map componentsis külgpaneeli parem sulgemise/avamise lahendus
 * Vertical stepperi alamsammude kuvamine mobiilis
