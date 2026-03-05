@@ -5,15 +5,6 @@ https://bitwebou-my.sharepoint.com/:v:/r/personal/karolin_kivisikk_bitweb_ee/Doc
 ## Päevakord
 * Demo: filter, rating, theming demo MUISi näitel, community komponentide kustutamine, discussionite arutelu, 
 
-## TEDI poolt info
-* Realease demo:
-  * Rating
-  * Filter
-  * Dropdown examples in Figma (dev component)
-  * Published previously hidden font and color variables for theming
-* MUISi näitel projekti bränding/theming - kuidas muutujaid üle kirjutada
-* Discussionite ülevaatamine
-
 AI kokkuvõte:
 ## TEDI uuendused
 * Alustati TEDI kasutajate tagasiside kogumist, mille põhjal koostatakse järgmise aasta arendusplaan.
