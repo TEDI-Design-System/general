@@ -22,7 +22,7 @@ Lisaks puudus selge ajakava, millal TEDI uue Angulari versiooni toe lisab ja van
 TEDI hakkab Angulari puhul järgima [**Angulari enda versioonitoe mudelit**](https://angular.dev/reference/releases) — toetatakse **kolme viimast major-versiooni** korraga.
 
 Ajakava:
-- TEDI lisab uue Angulari major-versiooni toe **hiljemalt ühe kuu jooksul** pärast Angulari ametlikku väljalaset
+- TEDI lisab uue Angulari major-versiooni toe **hiljemalt kahe (2) kuu jooksul** pärast Angulari ametlikku väljalaset
 - Vanima toetatud versiooni tugi eemaldatakse samal ajal uue versiooni toe lisamisega
 
 Näide: kui Angular 22 ilmub, siis hiljemalt kuu aja jooksul lisatakse TEDI-sse Angular 22 tugi ja eemaldatakse Angular 19 tugi. Toetatakse v20, v21 ja v22.
