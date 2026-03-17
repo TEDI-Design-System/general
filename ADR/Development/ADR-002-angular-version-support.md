@@ -25,9 +25,9 @@ Ajakava:
 - TEDI lisab uue Angulari major-versiooni toe **hiljemalt kahe (2) kuu jooksul** pärast Angulari ametlikku väljalaset
 - Vanima toetatud versiooni tugi eemaldatakse samal ajal uue versiooni toe lisamisega
 
-Näide: kui Angular 22 ilmub, siis hiljemalt kuu aja jooksul lisatakse TEDI-sse Angular 22 tugi ja eemaldatakse Angular 19 tugi. Toetatakse v20, v21 ja v22.
+Näide: kui Angular 22 ilmub, siis hiljemalt kahe kuu jooksul lisatakse TEDI-sse Angular 22 tugi ja eemaldatakse Angular 19 tugi. Toetatakse v20, v21 ja v22.
 
-Vanimate versioonide puhul kehtivad samad reeglid nagu ADR-001-s:
+Vanemate versioonide puhul kehtivad samad reeglid nagu ADR-001-s:
 - Ainult hädavajalikud parandused (bugfixid, ligipääsetavuse parandused)
 - Ei lisata uusi funktsioone ega komponente
 
@@ -57,7 +57,7 @@ Vanimate versioonide puhul kehtivad samad reeglid nagu ADR-001-s:
 
 ## 5. Järeldus
 
-Kolme versiooni tugi on mõistlik kompromiss tarbijarakenduste vajaduste ja TEDI tiimi ressursside vahel. Kuuajaline puhver pärast ametlikku väljalaset annab piisavalt aega testimiseks ja migratsiooniks ilma et tekiks pikka viivitust.
+Kolme versiooni tugi on mõistlik kompromiss tarbijarakenduste vajaduste ja TEDI tiimi ressursside vahel. Kahekuuline puhver pärast ametlikku väljalaset annab piisavalt aega testimiseks ja migratsiooniks ilma et tekiks pikka viivitust.
 
 ---
 
