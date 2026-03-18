@@ -4,8 +4,8 @@
 * Kaia Jallai
 * Siret Tuula
 * Gerli Raadik
-* Airike
-* Märt
+* Airike Jaska
+* Märt Sessman
 * Erik Dorbek
 * Set Silliksaar
 * Ly Tempel
