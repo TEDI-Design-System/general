@@ -81,7 +81,7 @@ Arutati Figma ja Claude Design tööriistade kasutamist prototüüpimisel ning p
 ### TEDI tiim
 - Uurida ja selgitada GitHub'i repo ja Figma Make vahelist koostoimet - mis probleem esines?
 - Jälgida ja vajadusel täiendada TEDI komponente ühenduses Claude Designi ja Claude'iga, parandades kasutuspiiranguid ja juhendmaterjale
-- Luua mobiili versioon
+- Luua mobiili versioon tabelile
 - Saata Einarile Figma Community link hierarhiliste elementide jagamiseks
 
 ### Projektide disainerid
