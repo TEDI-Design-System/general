@@ -26,7 +26,7 @@
 - Tooltip komponent sai sinise äärise võimaluse, mis on mõeldud eriti päise kasutusjuhtudeks
 - Checkboxi suurus tabelis langetati 24×24 pikslilt 18×18 pikslile, et ühtlustada default variandiga
 
-## Arendus- ja releseplaanid
+## Arenduse ja release'i plaanid
 
 Neljapäevase relese eel on mitmed uued komponendid valmis, kuid tabeli komponent vajab veel aega.
 - Date ja time picker, TimeField, Calendar, Input group, Slider, Header, Pagination, Empty state - Reactis tulemas;  Filter, Horizontal stepper - angularis tulemas. 
@@ -36,7 +36,7 @@ Neljapäevase relese eel on mitmed uued komponendid valmis, kuid tabeli komponen
 - Sorteerimise klikitavad alad peaksid laienema kogu veerupäisele? Ehk variant on mitte piirduda vaid nupuga; 
 - Vanemaealiste kasutajate testgrupp näitas, et mõiste "filter" ei ole alati selge, mis põhjustab valesid toiminguid; Angelica mainis et palus testil kasutajatel filtreerida ning nad hakkasid sorteerima - võimalus et nupud pole kasutajatele selged, kuid ka võimalus et mõiste pole kasutajale selge - mis on filtreerimise ja sorteerimise vahe, Kärolin vaatab üle testimise tulemused ja sihtgrupi. 
 - Aktiivse tabelirea märgistamine tagasipöördumisel parandab kasutajakogemust – Kristel selgitas kliendisoovi aktiivsele reale visuaalse märgistuse säilitamiseks; lahendusena sobib stiiliklass, mis jätab rea siniseks (active olek).
-- Button groupi arutelu näitas, et hetkel kasutatakse seda eelkõige vaatevahetuseks; Helis soovis säilitada praegune vorm, Kärolin kogub rohkem tagasisidet enne muudatuse otsustamist. Kristel soovis AKSis projektis samuti praegust visuaali et kasutaja ei ajaks tava-nunppudega segamini.
+- Button groupi arutelu näitas, et hetkel kasutatakse seda eelkõige vaatevahetuseks; Helis soovis säilitada praegune vorm, Kärolin kogub rohkem tagasisidet enne muudatuse otsustamist. Kristel soovis AKSis projektis samuti praegust visuaali et kasutaja ei ajaks tava-nunppudega segamini. (STAR, EHR, AKS soovivad sama visuaali)
 - Helis uuris kas selekteeritud rida peab olema sinine või võib ka vaid checkbox jääda valituks. Kärolin täpsustas et vaid checkbox saab ka jääda, arneduses sai samuti tehtud parandus.
 
 ## Figma ja disainitööriistade integratsioon
@@ -47,7 +47,7 @@ Neljapäevase relese eel on mitmed uued komponendid valmis, kuid tabeli komponen
 ## Projektispetsiifilised teemad
 
 - Eesti äpi meeskond kasutab TEDI muutujaid ja on loonud mobiilispetsiifilisi komponente (bottom nav, bottom sheetid), mis TED-is seni puudusid; plaan on need tulevikus TEDI süsteemi lisada
-- 3D ja kaardirakenduste projektides kerkivad küsimused TEDI-ready komponentide puudulikkusest - hetkel on need communitys; Kärolin tõstab teema arendustiimi diskussiooni prioriteetide ja vajaduste selgitamiseks
+- 3D X-GIS ja AKS-i projektides kerkivad küsimused TEDI-ready komponentide kohta - hetkel on kaardikomponendid communitys; Kärolin tõstab teema arendustiimi diskussiooni prioriteetide ja vajaduste selgitamiseks
 
 ## Otsused
 
@@ -55,6 +55,8 @@ Neljapäevase relese eel on mitmed uued komponendid valmis, kuid tabeli komponen
 - Töötada välja juhendfailid AI tööriistade parema integratsiooni tarbeks
 - Tõsta kaardikomponentide ja 3D-arenduse teema arendustiimi diskussiooni
 - Uurida Eesti äpi protode jagamisõigust TEDI kogukonnaga
+- Lisada juurde TEDI tabelile näidis et saab ka checkboxi asemel olla radio button
+- Tabeli th komponendi kõrgus on katki läinud, korda teha
 
 ### Projektide disainerid
 - Kasutada TEDI kogukonna diskussioonikanalit uute vajaduste ja probleemide jagamiseks
