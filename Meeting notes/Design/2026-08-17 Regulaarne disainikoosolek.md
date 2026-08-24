@@ -34,21 +34,15 @@
 - Figma muutujate uuendusi hoitakse tagasi, kuni publishimise bug on lahendatud.
 
 ## Eelmine koosolek
-- Jagada tekstiredaktori komponendi juhendit ja soovitatud teegi valikut projektidele.
-- Kirjutada dokument tehniliste juhistega clear button'i haldamiseks (hover ja nähtavus).
-- Näidata järgmisel kohtumisel TEDI-CVI brändielemente ja selgitada nende rolli.
-- Ümber paigutada ja refaktoreerida Sheet komponent Figmas ning jälgida komponentide veatut toimimist.
-- Lahendada Figma muutujate publishimise bug ja hoida muutujate uuendused kontrolli all.
-- Uuendada ja jagada Figma Make kit'i ning valmistada Cloud Designi juhend.
-- Korraldada Figma diskussioonid värvide ja Accordioni osas ning vastata laekunud küsimustele.
-- Täiendada Accordion komponendi slotte (header, footer), võimaldades paindlikke muudatusi.
-- Arendada ja tutvustada card button ja table alert item komponente vastavalt kasutusvajadustele.
-- Aidata kasutajatel organiseerida TEDI Figma faile mitme tiimi ja projekti lõikes.
-- Lisada Textgroup komponendile slot, et võimaldada erinevaid elemente (nupud, lingid).
-- Koostada 24-pikslise kopeerimisnupu hover- ja fookusstaatustega variant.
-- Algatada diskussioon spinneri komponendi tekstikirjelduse lisamise vajaduse üle.
+- Edastada arendajatele otsus "clear button" (x) kuvamise ja selle property-te juhtimise kohta projektides
+
+**Projektide disainerid**
+- Saata Kärolinile TEDi komponente kasutavate projektide lingid, et koguda reaalseid kasutusnäiteid ja mõista paremini kasutusolukordi
+- Map komponendis külgpaneeli parem sulgemise/avamise lahendus
+- TTJA NBA, Rahvastikuregistri menetluskeskkond: vajadus tabelis/lingil eristada külastatud ja külastamata olekuid
+- Aadresside ja Kohanimede Süsteem (AKS): Card header ja card vertical tekitavad disainis konflikti kui headeris kõik väärtused sisse lülitada; brand värvi peal pole searchi hint näha
 
 **Arendusmeeskond**
 - Viia läbi külgmenüü refaktooring ja disainiuuendused kolmanda taseme menüü lihtsustamiseks.
 - Jätkata rating komponendi arendamist ja disainiuuenduste rakendamist.
-- Teha radioknuppudel ja checkboxidel vajalikud muudatused ning eemaldada Choice Group komponent.
+- Teha radionuppudel ja checkboxidel vajalikud muudatused ning eemaldada Choice Group komponent.
