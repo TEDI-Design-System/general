@@ -62,8 +62,7 @@ Otsus on tagasipööratav: kui selgub, et enamik projekte kasutab sama teeki, sa
 
 ---
 
-## 6. Seotud dokumendid / Tulevikutöö
+## 6. Tulevikutöö
 
-- Disainisüsteemi TextEditor komponent (Figma).
-- **Tulevikus võimalik:** pakkuda TEDI teemat (CSS/tokenid) populaarsetele teekidele, ilma teeki ennast sõltuvusena kaasamata. Kandidaadid: TinyMCE, CKEditor, TipTap, Lexical, Quill.
+- **Tulevikus võimalik:** pakkuda TEDI teemat (CSS/tokenid) populaarsetele teekidele, ilma teeki ennast sõltuvusena kaasamata. Kandidaadid: TinyMCE, CKEditor, Quill.
 - Koguda projektidelt ülevaade reaalselt kasutatavatest teekidest, et teemastamise prioriteet paika panna.
