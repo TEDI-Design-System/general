@@ -1,9 +1,13 @@
 # ADR-001: Reacti ja Angulari versioonitoe poliitika
 
-- **Staatus:** Accepted  
+- **Staatus:** Accepted (Angulari osas asendatud, vt ADR-002)  
 - **Kuupäev:** 2025-04-23  
 - **ADR ID:** ADR-001  
 - **Otsuse tegijad:** Tõnis Tobre, Oliver Vaga  
+
+> **Angulari osa on asendatud.** [ADR-002](ADR-002-angular-version-support.md) muutis Angulari
+> versioonitoe poliitikat: toetatakse Angulari kolme viimast major-versiooni. Selles dokumendis
+> kirjeldatud Reacti poliitika (uusim ja üks major-versioon vanem) kehtib endiselt.
 
 ---
 
@@ -55,4 +59,6 @@ Vanema versiooni puhul:
 ---
 
 ## 6. Seotud dokumendid / Tulevikutöö
+
+- [ADR-002: Uuendatud Angulari versioonitoe poliitika](ADR-002-angular-version-support.md) asendab käesoleva dokumendi Angulari osa
 

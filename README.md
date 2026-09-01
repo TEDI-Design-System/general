@@ -1,8 +1,6 @@
 # general
 
-Shared documentation for the TEDI Design System. This repository holds the things that are not library code: the wiki, architecture decision records and meeting notes.
-
-The component libraries live in their own repositories: [react](https://github.com/TEDI-Design-System/react), [angular](https://github.com/TEDI-Design-System/angular) and [core](https://github.com/TEDI-Design-System/core).
+Shared documentation for the TEDI Design System. This repository contains TEDI wiki, architecture decision records and meeting notes.
 
 ## Wiki
 
@@ -12,7 +10,7 @@ For the design guidelines and component documentation see [tedi.ee](https://www.
 
 ## ADR
 
-Architecture decision records: decisions about the design system that are worth keeping a written record of, such as the framework version support policy. Each record states its status, date and decision makers, and stays in place once accepted, so a superseded decision is marked rather than deleted.
+Architecture decision records capture significant technical decisions and the reasoning behind them, so the thinking stays available later. Each record states its status, date and decision makers.
 
 Use `ADR/Development/ADR-XXX-<title>.md` as the template and take the next free number.
 

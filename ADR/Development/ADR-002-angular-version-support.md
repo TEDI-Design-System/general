@@ -63,5 +63,5 @@ Kolme versiooni tugi on mõistlik kompromiss tarbijarakenduste vajaduste ja TEDI
 
 ## 6. Seotud dokumendid / Tulevikutöö
 
-- ADR-001: Reacti ja Angulari versioonitoe poliitika
+- [ADR-001: Reacti ja Angulari versioonitoe poliitika](ADR-001-version-support.md)
 - [Angular versioning and releases](https://angular.dev/reference/releases)
