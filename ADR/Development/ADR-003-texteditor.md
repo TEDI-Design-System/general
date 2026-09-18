@@ -1,6 +1,6 @@
 # ADR-003: TextEditor (WYSIWYG) komponenti TEDI-READY's ei pakuta
 
-- **Staatus:** Proposed
+- **Staatus:** Accepted
 - **Kuupäev:** 2026-08-24
 - **ADR ID:** ADR-003
 - **Otsuse tegijad:** Märt Sessman, Tõnis Tobre, Airike Jaska
