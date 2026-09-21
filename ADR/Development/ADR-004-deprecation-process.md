@@ -151,7 +151,7 @@ märkmetes antakse viimane hoiatus, et koodist eemaldamine toimub detsembri 2026
 
 | Alternatiiv | Miks ei valitud |
 |-------------|-----------------|
-| Jätkata senise praktikaga | Eemaldamine oleks tarbijatele ootamatu murdev muudatus. |
+| Jätkata senise praktikaga | Eemaldamine oleks tarbijatele ootamatu *breaking change*. |
 | Jätta aken kuue kuu peale ja lisada ainult meeldetuletus | Dokumentatsiooni eemaldamine ei mahuks kuhugi: kas koos koodist eemaldamisega, mis ei anna mingit hoiatust, või enne seda, mis lühendaks dokumenteeritud perioodi alla kuue kuu. |
 
 ---
