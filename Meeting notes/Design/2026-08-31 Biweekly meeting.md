@@ -1,3 +1,5 @@
+*Tegu on AI kokkuvõttega*
+
 # Peamised punktid
 
 ## Komponentide uuendused
