@@ -1,6 +1,6 @@
 # ADR-005: Komponendi API parameetrite deprecate'imine
 
-- **Staatus:** Proposed
+- **Staatus:** Accepted
 - **Kuupäev:** 2026-10-05
 - **ADR ID:** ADR-005
 - **Otsuse tegijad:** Märt Sessman, Airike Jaska, Ly Tempel, Tõnis Tobre
