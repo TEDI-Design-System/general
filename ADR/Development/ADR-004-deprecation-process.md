@@ -1,6 +1,6 @@
 # ADR-004: Komponentide deprecate'imise aken ja sammud
 
-- **Staatus:** Proposed
+- **Staatus:** Accepted
 - **Kuupäev:** 2026-09-18
 - **ADR ID:** ADR-004
 - **Otsuse tegijad:** Märt Sessman, Airike Jaska, Ly Tempel, Rando Leppik, Tõnis Tobre
