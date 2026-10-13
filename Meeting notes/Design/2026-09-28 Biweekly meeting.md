@@ -28,7 +28,7 @@
 
 # Otsused
 - Timeline, stepper ja (tulekul) dropdown pakutakse tervikkomponentidena slotipõhiselt.
-- Oranž värv muudetakse WCAG nõuete tõttu tumedamaks; värvinimed uuendatakse migratsiooni käigus.
+- Oranž värv muudeti WCAG nõuete tõttu tumedamaks, projektil oli küsimus miks orange-600 muutunud on;
 - Komponentide vastutus: aatomid disainisüsteemis, suuremad mustrid projektipõhiselt või disainisüsteemis.
 
 ## Eelmine koosolek
