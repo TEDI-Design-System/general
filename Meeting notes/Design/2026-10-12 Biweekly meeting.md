@@ -19,7 +19,6 @@
 
 ## Sisukord ja mobiilivaade
 - Pikematel lehtedel vajab sisukorra scrollimis-/sticky-käitumine veel selgitamist; oodatakse projektide tagasisidet.
-- Mobiilis võiks sisukord avaneda dropdownina — kaalumisel tagasiside põhjal.
 
 ## Koostöö ja suhtlus
 - Projektidel on vabadus valida komponente ja käitumist, kuid muudatustest ja erivajadustest tuleks TEDI tiimiga suhelda (nt millal sheet, millal popover).
@@ -33,19 +32,11 @@
 
 ## Eelmine koosolek
 **Projektide disainerid**
-- Vaadata üle, millised mobiilsed lahendused võiksid sheet-komponendist kasu saada, ja teha vajadusel muudatused.
-- Märkida ja teatada juhtudest, kus disabled nuppudel ja vormiväljadel on erinev stiil või vaja kohandusi.
-- Teavitada TEDI tiimi vajadusest värve, spacingut või muutujaid üle kirjutada ning arutada ühtlustamist.
-- Testida sisukorra komponendi scrollimis- ja sticky-lahendusi ning jagada tagasisidet.
 - Figma komponentide nihkumisel kasutada "regenerate all instances" ja teatada TEDI tiimile.
 - Anda tagasisidet Figma komponendi struktuuri muutmise kohta.
-- Suhelda küsimuste ja probleemidega Designi kanalis või otse TEDI tiimiga.
-- Stiilida väliste tekstiredaktorite teegid TEDI disainikeele järgi. (eelmisest)
 - TTJA NBA ja Rahvastikuregistri menetluskeskkond: eristada külastatud ja külastamata olekuid. (eelmisest)
 - AKS: Card header ja card vertical konflikt; brand-värvi peal pole searchi hint näha. (eelmisest)
 
 **Arendusmeeskond ja TEDI tiim**
-- Koordineerida disabled olekute ühtlustamine checkbox-komponendil ja avaldada uued muutujad.
 - Kontrollida ja uuendada komponentide dokumentatsioon ning arenduslingid Figma failides.
 - Lisada pop-overi taustale tumedama kihi/varju võimalus ja avada GitHubi diskussioon. (eelmisest)
-- Teha radionuppude ja checkboxide muudatused ning eemaldada Choice Group. (eelmisest)
