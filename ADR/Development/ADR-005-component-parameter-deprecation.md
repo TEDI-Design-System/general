@@ -10,7 +10,7 @@
 ## 1. Kontekst
 
 [ADR-004](ADR-004-deprecation-process.md) kirjeldab terve komponendi deprecate'imist. Mõnikord on deprecated
-aga ainult komponendi üksikud API parameetrid (Reactis propid, Angularis inputid ja outputid). Nende kohta
+aga ainult komponendi üksikud API parameetrid (Reactis propid, Angularis inputid ja outputid, Vue teegis propid, sündmused ja slotid). Nende kohta
 ühest reeglit ei ole.
 
 Praktikas muudetakse parameetri nimi enamasti kohe ja see on *breaking change*. Harvem on vana nimi jäetud

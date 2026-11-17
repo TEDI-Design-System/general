@@ -21,6 +21,9 @@ Komponendi mahakandmine koosneb täna kolmest tegevusest, mis kõik toimuvad **�
 
    // Angular, community/tag
    @deprecated Use Tag from TEDI-ready instead. This component will be removed from future versions.
+
+   // Vue, community/dropdown
+   @deprecated Use `TediDropdown` from `@tedi-design-system/vue/tedi` instead.
    ```
 
 2. **Storybookis** märgitakse story staatusega
@@ -79,11 +82,11 @@ Deprecate'imisel lisatakse komponendile **arenduskeskkonna konsoolihoiatus**. `@
 märgis eeldavad, et arendaja satub IDE tooltipi või Storybooki peale. Hoiatus jõuab kohale ka siis, kui ta
 ainult jooksutab rakendust.
 
-- Ainult arenduskeskkonnas: Angularis `isDevMode()`, Reactis `process.env.NODE_ENV !== 'production'`.
+- Ainult arenduskeskkonnas: Angularis `isDevMode()`, Reactis `process.env.NODE_ENV !== 'production'`, Vue teegis `import.meta.env.DEV`.
 - Üks kord komponendi kohta, mitte iga renderdusega.
 - Sisu on sama mis `@deprecated` tekstis: komponendi nimi ja asendus, ilma eemaldamise kuuta.
 
-Muster on mõlemas teegis juba olemas, näiteks `tedi-radio-group` Angularis ja `TableCard` Reactis.
+Muster on Reacti ja Angulari teegis juba olemas, näiteks `tedi-radio-group` Angularis ja `TableCard` Reactis.
 
 ### 2.4 Viimane hoiatus ja edasilükkamine
 
